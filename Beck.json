@@ -1,0 +1,173 @@
+{
+  "points": 0,
+  "questions": [
+    {
+      "id" : 1,
+      "options" : ["Kendimi üzüntülü ve sıkıntılı hissetmiyorum.",
+        "Kendimi üzüntülü ve sıkıntılı hissediyorum.",
+        "Hep üzüntülü ve sıkıntılıyım. Bundan kurtulamıyorum.",
+        "O kadar üzüntülü ve sıkıntılıyım ki artık dayanamıyorum."],
+      "selectedOption" : 0
+    },
+    {
+      "id" : 2,
+      "options" : ["Gelecek hakkında mutsuz ve karamsar değilim.",
+        "Gelecek hakkında karamsarım.",
+        "Gelecekten beklediğim hiçbir şey yok.",
+        "Geleceğim hakkında umutsuzum ve sanki hiçbir şey düzelmeyecekmiş gibi geliyor."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 3,
+      "options" : ["Kendimi başarısız bir insan olarak görmüyorum.",
+        "Çevremdeki birçok kişiden daha çok başarısızlıklarım olmuş gibi hissediyorum.",
+        "Geçmişe baktığımda başarısızlıklarla dolu olduğunu görüyorum.",
+        "Kendimi tümüyle başarısız biri olarak görüyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 4,
+      "options" : ["Birçok şeyden eskisi kadar zevk alıyorum.",
+        "Eskiden olduğu gibi her şeyden hoşlanmıyorum.",
+        "Artık hiçbir şey bana tam anlamıyla zevk vermiyor.",
+        "Her şeyden sıkılıyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 5,
+      "options" : ["Kendimi herhangi bir şekilde suçlu hissetmiyorum.",
+        "Kendimi zaman zaman suçlu hissediyorum.",
+        "Çoğu zaman kendimi suçlu hissediyorum.",
+        "Kendimi her zaman suçlu hissediyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 6,
+      "options" : ["Bana cezalandırılmışım gibi geliyor.",
+        "Cezalandırılabileceğimi hissediyorum.",
+        "Cezalandırılmayı bekliyorum.",
+        "Cezalandırıldığımı hissediyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 7,
+      "options" : ["Kendimden memnunum.",
+        "Kendi kendimden pek memnun değilim.",
+        "Kendime çok kızıyorum.",
+        "Kendimden nefret ediyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 8,
+      "options" : ["Başkalarından daha kötü olduğumu sanmıyorum.",
+        "Zayıf yanların veya hatalarım için kendi kendimi eleştiririm.",
+        "Hatalarımdan dolayı ve her zaman kendimi kabahatli bulurum.",
+        "Her aksilik karşısında kendimi hatalı bulurum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 9,
+      "options" : ["Kendimi öldürmek gibi düşüncelerim yok.",
+        "Zaman zaman kendimi öldürmeyi düşündüğüm olur. Fakat yapmıyorum.",
+        "Kendimi öldürmek isterdim.",
+        "Fırsatını bulsam kendimi öldürürdüm."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 10,
+      "options" : ["Her zamankinden fazla içimden ağlamak gelmiyor.",
+        "Zaman zaman içinden ağlamak geliyor.",
+        "Çoğu zaman ağlıyorum.",
+        "Eskiden ağlayabilirdim şimdi istesem de ağlayamıyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 11,
+      "options" : ["Şimdi her zaman olduğumdan daha sinirli değilim.",
+        "Eskisine kıyasla daha kolay kızıyor ya da sinirleniyorum.",
+        "Şimdi hep sinirliyim. ",
+        "Bir zamanlar beni sinirlendiren şeyler şimdi hiç sinirlendirmiyor."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 12,
+      "options" : ["Başkaları ile görüşmek, konuşmak isteğimi kaybetmedim.",
+        "Başkaları ile eskiden daha az konuşmak, görüşmek istiyorum.",
+        "Başkaları ile konuşma ve görüşme isteğimi kaybetmedim.",
+        "Hiç kimseyle konuşmak görüşmek istemiyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 13,
+      "options" : ["Eskiden olduğu gibi kolay karar verebiliyorum.",
+        "Eskiden olduğu kadar kolay karar veremiyorum.",
+        "Karar verirken eskisine kıyasla çok güçlük çekiyorum.",
+        "Artık hiç karar veremiyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 14,
+      "options" : ["Aynada kendime baktığımda değişiklik görmüyorum.",
+        "Daha yaşlanmış ve çirkinleşmişim gibi geliyor.",
+        "Görünüşümün çok değiştiğini ve çirkinleştiğimi hissediyorum.",
+        "Kendimi çok çirkin buluyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 15,
+      "options" : ["Eskisi kadar iyi çalışabiliyorum.",
+        "Bir şeyler yapabilmek için gayret göstermem gerekiyor.",
+        "Herhangi bir şeyi yapabilmek için kendimi çok zorlamam gerekiyor.",
+        "Hiçbir şey yapamıyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 16,
+      "options" : ["Her zamanki gibi iyi uyuyabiliyorum.",
+        "Eskiden olduğu gibi iyi uyuyamıyorum.",
+        "Her zamankinden 1-2 saat daha erken uyanıyorum ve tekrar uyuyamıyorum.",
+        "Her zamankinden çok daha erken uyanıyor ve tekrar uyuyamıyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 17,
+      "options" : ["Her zamankinden daha çabuk yorulmuyorum.",
+        "Her zamankinden daha çabuk yoruluyorum.",
+        "Yaptığım her şey beni yoruyor.",
+        "Kendimi hemen hiçbir şey yapamayacak kadar yorgun hissediyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 18,
+      "options" : ["İştahım her zamanki gibi.",
+        "İştahım her zamanki kadar iyi değil.",
+        "İştahım çok azaldı.",
+        "Artık hiç iştahım yok."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 19,
+      "options" : ["Son zamanlarda kilo vermedim.",
+        "İki kilodan fazla kilo verdim.",
+        "Dört kilodan fazla kilo verdim.",
+        "Altı kilodan fazla kilo vermeye çalışıyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 20,
+      "options" : ["Sağlığım beni fazla endişelendirmiyor.",
+        "Ağrı, sancı, mide bozukluğu veya kabızlık gibi rahatsızlıklar beni endişelendirmiyor.",
+        "Sağlığım beni endişelendirdiği için başka şeyleri düşünmek zorlaşıyor.",
+        "Sağlığım hakkında o kadar endişeliyim ki başka hiçbir şey düşünemiyorum."],
+      "selectedOption" : null
+    },
+    {
+      "id" : 21,
+      "options" : ["Son zamanlarda cinsel konulara olan ilgimde bir değişme fark etmedim.",
+        "Cinsel konularla eskisinden daha az ilgiliyim.",
+        "Cinsel konularla şimdi çok daha az ilgiliyim.",
+        "Cinsel konular olan ilgimi tamamen kaybettim."],
+      "selectedOption" : null
+    }
+  ]
+}
